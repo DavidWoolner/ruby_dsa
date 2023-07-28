@@ -21,3 +21,5 @@ end
 def is_bad_version(n)
   'this is implemented by leetcode as an \'API Call\''
 end
+
+[1,2].tally
